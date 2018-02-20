@@ -78,3 +78,49 @@
     border-radius: 4px;
     box-sizing: border-box;
 }
+
+.container{
+	margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+	background-color: #ffffff
+}
+
+.form-style{
+	text-align: center;
+	margin:10px auto;
+    max-width: 400px;
+    padding: 20px 12px 10px 20px;
+    font: 13px "Roboto", sans-serif;
+}
+.form-style li{
+	padding: 0;
+    display: block;
+    list-style: none;
+    margin: 10px 0 0 0;	
+}
+
+.form-style lable{
+	margin:0 0 3px 0;
+    padding:0px;
+    display:block;
+    font-weight: bold;	
+}
+
+.form-style-1 input[type=button]{
+    background: #4B99AD;
+    padding: 8px 15px 8px 15px;
+    border: none;
+    color: #fff;
+}
+.form-style .required{
+    color:red;
+}
+
+.form-style .heading{
+	font-size: 20px;
+	font-style: bold;
+}
+
+
